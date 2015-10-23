@@ -9,3 +9,7 @@ csgo\cfg\sourcemod\multi1v1\multi1v1_online_stats_viewer.cfg
 >sm_multi1v1_top_url "http://example.com/redirect/top/{SERVER}"
 
 >sm_multi1v1_stats_url "http://example.com/redirect/player/{USER}/{SERVER}"
+
+## Steam API Key
+
+Retrieve your Steam API key from http://steamcommunity.com/dev/apikey and put it in the .env file
